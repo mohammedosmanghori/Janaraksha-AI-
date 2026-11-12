@@ -1,0 +1,6 @@
+{
+  "name": "JANARAKSHA AI",
+  "description": "AI-powered police document intelligence and paperless administrative workflow platform designed for police stations in Kalaburagi, Karnataka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
